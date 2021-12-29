@@ -48,8 +48,8 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-* 
-###A short explanation of the files in the repository.
+
+### short explanation of the files in the repository.
 1. Added .circleci and config.yml file
 2. Additionaly added a PDF docuement name: Udacity projec4 - containing evidences- workflow and results captured.
 3. Updated other existing files to run the prediction application.  
